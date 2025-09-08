@@ -1,0 +1,55 @@
+.work-header {
+  text-align: center;
+  font-size: 2rem;
+  margin: 3rem 0 2rem 0;
+}
+
+.job h3 {
+  font-size: 1.4rem;
+  margin-bottom: 0.25rem;
+}
+
+.job .location {
+  font-weight: normal;
+  font-size: 1rem;
+  color: #555;
+}
+
+.job .date {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.job h4 {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+.job ul {
+  list-style: disc;
+  margin: 0.5rem 0 0 1.5rem;
+  line-height: 1.6;
+}
+
+.job li {
+  margin-bottom: 0.3rem;
+}
+
+.extra-header {
+  text-align: center;
+  font-size: 2rem;
+  margin: 6rem 0 4rem 0;
+}
+
+.extra ul {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.5rem;
+  line-height: 1.6;
+}
+
+.extra li {
+  margin-bottom: 0.5rem;
+}
+

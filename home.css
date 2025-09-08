@@ -1,0 +1,72 @@
+/* Existing section styles stay the same */
+.section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 4rem 0;
+}
+
+.section img {
+  height: auto;
+  max-width: 300px;
+  border-radius: 16px;
+}
+
+.text-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.text-content h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.8rem;
+}
+
+.section h2 {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.text-content p {
+  max-width: 60ch;
+  margin: 0 0 2rem 0;
+  line-height: 2;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2, .5fr);
+  gap: 1rem;
+  width: 100%;
+  max-width: 1000px;
+  margin-bottom: 4rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.skill-category {
+  text-align: center;
+}
+
+.skill-category h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+}
+
+.skill-category ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-category li {
+  margin: 0.3rem 0;
+}

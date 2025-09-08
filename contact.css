@@ -1,0 +1,26 @@
+.contact-header {
+  text-align: center;
+  font-size: 2rem;
+  margin: 3rem 0 2rem 0;
+}
+
+.contact-item {
+  text-align: center;
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: #fff;
+}
+
+.contact-item h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact-item p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.contact-item a {
+  color: #0066cc;
+}
